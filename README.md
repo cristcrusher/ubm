@@ -1,4 +1,4 @@
-# Usage
+# Usage for zcash.flypool.org EU
 
 ## First time setup
 
